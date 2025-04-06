@@ -23,7 +23,7 @@ This is a **React practice project** that displays user testimonials using data 
 ---
 
 ## 🌟 Screenshots
-> [!Image1](./assets/Image1.png)
+> ![Image1](./assets/Image1.png)
 
 ---
 
