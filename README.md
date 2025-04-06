@@ -31,7 +31,7 @@ This is a **React practice project** that displays user testimonials using data 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/testimonial-react-project.git
+git clone https://github.com/paveshkanungo/Testimonial-React-Project.git
 cd testimonial-react-project
 ```
 
